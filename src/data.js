@@ -20,4 +20,3 @@ const projects = [
     image: './assets/questions.png',
   },
 ];
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iure nesciunt excepturi magnam voluptate provident, facilis ipsam delectus est corrupti dolorum eos exercitationem ab molestiae esse quas similique. At, veritatis minima.
